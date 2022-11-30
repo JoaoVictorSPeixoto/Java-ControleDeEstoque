@@ -1,4 +1,4 @@
 # Java-ControleDeEstoque
 Um gerenciador de produtos cosmeticos em java
 <br>
-Para rodar, extrai o arquivo ControEstoque.zip, e rode o ControleEtoque.jar
+Para rodar, extraia o arquivo ControEstoque.zip, e execute o ControleEtoque.jar
